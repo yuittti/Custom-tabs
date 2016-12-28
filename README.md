@@ -1,0 +1,1 @@
+Custom functionality for tab panels (with nesting tabs as well) based on data attribute. Functionality for the video carousel (based on slick carousel) when video is loading only after opening slide in a modal.
